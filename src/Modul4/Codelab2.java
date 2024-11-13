@@ -1,6 +1,5 @@
 package Modul4;
 
-
 import java.util.Random;
 import java.util.Scanner;
 
@@ -58,4 +57,5 @@ public class Codelab2 {
         scanner.close();
     }
 }
+
 

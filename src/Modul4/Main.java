@@ -1,6 +1,7 @@
 package Modul4;
 import java.util.Scanner;
-public class Main {    public static void main(String[] args) {
+public class Main {
+    public static void main(String[] args) {
 
     Scanner scanner = new Scanner(System.in);
 
@@ -25,4 +26,5 @@ public class Main {    public static void main(String[] args) {
     System.out.println("Kalimat terbalik: " + kalimatReversed);
 
     scanner.close();
-}}
+}
+}
